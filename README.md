@@ -51,10 +51,11 @@ Tujuan
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df399098-cbc8-4724-bd0b-5ca9ce275983" />
 
 # Lalu buka Browser ( http://localhost/lab9_php_modular/index.php )
+# Tampilan Dashboard
 <img width="612" height="425" alt="image" src="https://github.com/user-attachments/assets/48a5ff59-ab9f-4cdc-986f-ab6684aaf855" />
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6fa601c1-88f0-4f71-baf9-2f73fbe0f733" />
-
+# Tampilan User
+<img width="590" height="382" alt="image" src="https://github.com/user-attachments/assets/764e496f-c822-44a4-a2fb-c5529cc27f16" />
+# Tampilan Login
 <img width="613" height="565" alt="image" src="https://github.com/user-attachments/assets/fa14a542-7c0a-4f65-841b-b06ff89c908e" />
 
 
