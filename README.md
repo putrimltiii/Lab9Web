@@ -35,6 +35,21 @@ Tujuan
 ## modules/user/add.php
 <img width="893" height="616" alt="image" src="https://github.com/user-attachments/assets/7cc700dd-8e2d-4a60-9e16-9c313e3e3c6f" />
 
+## modules/auth/login.php
+<img width="624" height="492" alt="image" src="https://github.com/user-attachments/assets/71908208-c1f9-48c3-b782-0e7ca6c7e533" />
+
+## modules/auth/logout.php
+<img width="619" height="208" alt="image" src="https://github.com/user-attachments/assets/09a52654-5f65-4774-a8f4-1e7f67f91ce4" />
+
+## assets/css/style.css
+<img width="599" height="381" alt="image" src="https://github.com/user-attachments/assets/2dc7d185-a961-4b83-98cd-6fa84aac1685" />
+
+## assets/js/script.js
+<img width="630" height="142" alt="image" src="https://github.com/user-attachments/assets/16b1fb08-d9ae-4ae7-b48c-e109ae55ef9f" />
+
+
+
+
 
 
 
