@@ -12,3 +12,31 @@ Tujuan
 
 # struktur direktory
 <img width="225" height="591" alt="image" src="https://github.com/user-attachments/assets/14956b09-55c8-4613-85ec-02a1a09286be" />
+
+## index.php
+<img width="682" height="810" alt="image" src="https://github.com/user-attachments/assets/db896dac-3ba0-4292-b014-80a192c9c63a" />
+
+## config/database.php
+<img width="702" height="318" alt="image" src="https://github.com/user-attachments/assets/b7f29367-59bb-4fbc-8fe1-d6ec0e8d3bb9" />
+
+
+## views/header.php
+<img width="689" height="514" alt="image" src="https://github.com/user-attachments/assets/bb254e48-bbee-4fdd-807a-1e15f812ff21" />
+
+## view/footer.php
+<img width="460" height="197" alt="image" src="https://github.com/user-attachments/assets/dca78643-948c-4424-9ac7-edfc35219f44" />
+
+## view/dashboard.php
+<img width="744" height="304" alt="image" src="https://github.com/user-attachments/assets/2b17cc12-3018-4134-ac18-494a1b084516" />
+
+## modules/user/list.php
+<img width="590" height="613" alt="image" src="https://github.com/user-attachments/assets/8a795e91-970c-41ec-a92b-bcfda1ed6a76" />
+
+## modules/user/add.php
+<img width="893" height="616" alt="image" src="https://github.com/user-attachments/assets/7cc700dd-8e2d-4a60-9e16-9c313e3e3c6f" />
+
+
+
+
+
+
