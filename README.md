@@ -47,6 +47,17 @@ Tujuan
 ## assets/js/script.js
 <img width="630" height="142" alt="image" src="https://github.com/user-attachments/assets/16b1fb08-d9ae-4ae7-b48c-e109ae55ef9f" />
 
+# Buka Xampp, lalu start Apache dan Mysql
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df399098-cbc8-4724-bd0b-5ca9ce275983" />
+
+# Lalu buka Browser ( http://localhost/lab9_php_modular/index.php )
+<img width="612" height="425" alt="image" src="https://github.com/user-attachments/assets/48a5ff59-ab9f-4cdc-986f-ab6684aaf855" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6fa601c1-88f0-4f71-baf9-2f73fbe0f733" />
+
+<img width="613" height="565" alt="image" src="https://github.com/user-attachments/assets/fa14a542-7c0a-4f65-841b-b06ff89c908e" />
+
+
 
 
 
